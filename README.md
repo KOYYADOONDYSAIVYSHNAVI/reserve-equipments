@@ -1,4 +1,4 @@
-# API-ify the Reservation System
+# API-ify the Reserve the Equipments System
 
 ## Overview
 Created an API-enabled version of the reservation system that we've already worked on. Used FastAPI, which allows you to write API applications fairly easily. 
